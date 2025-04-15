@@ -3,15 +3,15 @@ title:  'Der Findes Flere Ting'
 author:
 - Borges Luis Jorge
 - Diversen
-version: 4
+version: 7
 keywords: []
 abstract: |
-  Novelle frit efter "There are More Things" af Jorge Luis Borges.
+  Oversættelse og gendigtning af "There Are More Things" af Jorge Luis Borges.
 ...
 
 # Der Findes Flere Ting
 
-(Oversat og lettere gendigtet ud fra "There Are More Things" af Jorge Luis Borges)
+(Oversættelse og gendigtning af "There Are More Things" af Jorge Luis Borges)
 
 *Til minde om Howard P. Lovecraft*
 
