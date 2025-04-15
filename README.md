@@ -1,3 +1,7 @@
 # der-findes-flere-ting
 
-Nice template for publishing a short story on github. 
+Template for publishing a short story on github. 
+
+## Requirements
+
+- pandoc
