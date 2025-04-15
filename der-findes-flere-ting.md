@@ -11,7 +11,7 @@ abstract: |
 
 # Der Findes Flere Ting
 
-(Løst baseret på "There Are More Things" af Jorge Luis Borges)
+(Oversat og lettere gendigtet ud fra "There Are More Things" af Jorge Luis Borges)
 
 *Til minde om Howard P. Lovecraft*
 
