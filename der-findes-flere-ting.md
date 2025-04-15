@@ -3,6 +3,7 @@ title:  'Der Findes Flere Ting'
 author:
 - Borges Luis Jorge
 - Diversen
+version: 3
 keywords: []
 abstract: |
   Novelle frit efter "There are More Things" af Jorge Luis Borges.
