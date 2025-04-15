@@ -3,7 +3,7 @@ title:  'Der Findes Flere Ting'
 author:
 - Borges Luis Jorge
 - Diversen
-version: 9
+version: 10
 keywords: []
 abstract: |
   Oversættelse og gendigtning af "There Are More Things" af Jorge Luis Borges.
@@ -17,7 +17,7 @@ abstract: |
 
 ![Det runde tårn af Piranesi](the-round-tower.jpg "Det runde tårn af Piranesi")
 
-Lige da jeg skulle til at forberede mig til min afsluttende eksamen i filosofi ved københavns universitet, nåede budskabet mig, at min onkel, Erling Arnesen, var død af en hjerneblødning, ude på sin ejendom i det bakkede landskab på Mols.
+Lige da jeg skulle til at forberede mig til min afsluttende eksamen i filosofi ved Københavns Universitet, nåede budskabet mig, at min onkel, Erling Arnesen, var død af en hjerneblødning, ude på sin ejendom i det bakkede landskab på Mols.
 
 Jeg følte det, man altid føler ved et dødsfald: den stikkende, nu formålsløse anger over, at det intet ville have kostet at vise lidt mere venlighed. Mennesket glemmer så let, at det er en afdød, der taler med andre afdøde. Mit studium var, som sagt, filosofi; jeg mindedes, hvordan min onkel, uden nogensinde at nævne en eneste filosof ved navn, havde indviet mig i sine smukke grublerier, dengang ude på Højgård, nær ved Knebel. Et æble fra frugtskålen blev hans redskab til at introducere mig for Berkeleys idealisme; et gammelt skakbræt var nok til at illustrere de førsokratiske paradokser. År senere lånte han mig Hintons afhandlinger, der søger at påvise eksistensen af en fjerde rumdimension, som læseren angiveligt kan fornemme gennem indviklede øvelser med farvede træklodser. Jeg glemmer aldrig de prismer og pyramider af træ, vi byggede sammen på gulvet i hans kontor.
 
