@@ -51,6 +51,13 @@ blockquote {
   }
 }
 
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
 @media (max-width: 600px) {
   body {
     max-width: 100%;
